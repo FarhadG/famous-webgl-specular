@@ -1,5 +1,5 @@
 #Famous WebGL Specular Lighting
-> Implementation for showcasing WebGL Mesh specular/glossiness
+> Implementation for showcasing WebGL Mesh specular & glossiness
 
 [![Build Status](https://travis-ci.org/Famous/engine-seed.svg?branch=master)](https://travis-ci.org/Famous/engine-seed)  [![Dependency Status](https://david-dm.org/famous/engine-seed.svg)](https://david-dm.org/famous/engine-seed) [![devDependency Status](https://david-dm.org/famous/engine-seed/dev-status.svg)](https://david-dm.org/famous/engine-seed#info=devDependencies)
 
@@ -9,7 +9,7 @@ Here's a simple <a href="https://api-te.famo.us/codemanager/v1/containers/96b9e1
 
 ###Demo
 
-There are four lights, rotating around randomly, emmitting a random color. The glossiness/specular attributes have been applied to the `Backdrop` and `Cube` files, which you can find within the `src` directory.
+There are four lights, rotating around randomly, emmitting a random color. The glossiness/specular attributes have been applied to the `Backdrop.js` and `Cube.js` files, which you can find within the `src` directory.
 
 Go ahead and give it a try: <a href="https://api-te.famo.us/codemanager/v1/containers/96b9e1c9-668a-4ed2-80a2-eb22bb0a3a36/share" target="_blank">DEMO</a>
 
