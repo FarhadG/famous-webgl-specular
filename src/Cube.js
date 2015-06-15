@@ -2,8 +2,6 @@
 
 // Famous dependencies
 var Mesh = require('famous/webgl-renderables/Mesh');
-var Align = require('famous/components/Align');
-var Size = require('famous/components/Size');
 var Color = require('famous/utilities/Color');
 var getRandomColor = require('./getRandomColor');
 
